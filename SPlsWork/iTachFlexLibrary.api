@@ -1,0 +1,41 @@
+namespace iTachFlexLibrary;
+{
+     class Class1 
+    {
+        // class delegates
+
+        // class events
+
+        // class functions
+        STRING_FUNCTION ToString ();
+        SIGNED_LONG_INTEGER_FUNCTION GetHashCode ();
+
+        // class variables
+        INTEGER __class_id__;
+
+        // class properties
+    };
+
+     class TCPClientClass 
+    {
+        // class delegates
+        delegate FUNCTION ReceiveDataHandler ( SIMPLSHARPSTRING data );
+
+        // class events
+
+        // class functions
+        FUNCTION InitializeTcpClient ( STRING addressToConnectTo , LONG_INTEGER portNumber , LONG_INTEGER bufferSize );
+        FUNCTION ConnectToServer ();
+        FUNCTION DisconnectFromServer ();
+        FUNCTION SendData ( SIMPLSHARPSTRING dataToSend );
+        STRING_FUNCTION ToString ();
+        SIGNED_LONG_INTEGER_FUNCTION GetHashCode ();
+
+        // class variables
+        LONG_INTEGER debug;
+
+        // class properties
+        DelegateProperty ReceiveDataHandler OnDataReceiveEvent;
+    };
+}
+

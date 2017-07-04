@@ -1,0 +1,7 @@
+C:\Projects\iTachFlexCrestronDemo\iTachFlexLibrary\iTachFlexLibrary\bin\Debug\iTachFlexLibrary.dll
+C:\Projects\iTachFlexCrestronDemo\iTachFlexLibrary\iTachFlexLibrary\bin\Debug\iTachFlexLibrary.pdb
+C:\Projects\iTachFlexCrestronDemo\iTachFlexLibrary\iTachFlexLibrary\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Projects\iTachFlexCrestronDemo\iTachFlexLibrary\iTachFlexLibrary\bin\Debug\SimplSharpHelperInterface.dll
+C:\Projects\iTachFlexCrestronDemo\iTachFlexLibrary\iTachFlexLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\iTachFlexCrestronDemo\iTachFlexLibrary\iTachFlexLibrary\obj\Debug\iTachFlexLibrary.dll
+C:\Projects\iTachFlexCrestronDemo\iTachFlexLibrary\iTachFlexLibrary\obj\Debug\iTachFlexLibrary.pdb
